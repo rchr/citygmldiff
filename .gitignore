@@ -1,0 +1,13 @@
+bin/*
+.idea
+citygmldiff.eml
+citygmldiff.iml
+citygmldiff.userlibraries
+.idea/*
+out/*
+workspace.xml
+modules.xml
+/target
+.classpath
+*.iml
+.project
